@@ -267,4 +267,4 @@ Po uzyskaniu odpowiedniej decyzji należy przekazać informację prowadzącemu �
 ## **Kontakt**
 
 mgr inż. Adrian Albrecht  
-📧 adrian.albrecht@matman.uwm.edu.pl
+📧 adrian.albrecht@uwm.edu.pl
